@@ -15,7 +15,7 @@
     "axios": ">=0.18.1",
     "bootstrap": ">=4.3.1",
     "loaders.css": "0.1.2",
-    "lodash": ">=4.17.12",
+    "lodash": ">=4.17.13",
     "moment": "2.22.2",
     "react": "16.4.2",
     "react-addons-css-transition-group": "16.0.0-alpha.3",
